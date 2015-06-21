@@ -1,0 +1,22 @@
+body {
+	font-family: "Arvo", serif;
+	color: #4169e1;
+	text-align: center;
+}
+h1 {
+	font-size: 40px;
+}
+div {
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+#new-number {
+	font-family: "Arvo", serif;
+	color: #4169e1;
+	border: 1px solid #4169e1;
+	padding: 8px;
+}
+h3 {
+	font-size: 14px;
+	padding: 12px;
+}
